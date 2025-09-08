@@ -21,3 +21,11 @@ Voor deze opdracht heb je een loop nodig, als je niet meer weet hoe deze werken,
 letter = input("Geef een letter:")
 hoogte = int(input("Geef een hoogte:"))
 breedte = int(input("Geef een breedte:"))
+
+L = hoogte
+B = breedte
+
+Oppervlakte = L * B
+omtrek = 2*(hoogte+breedte)
+
+for x 
